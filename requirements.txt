@@ -1,0 +1,9 @@
+matplotlib
+netCDF4
+numpy
+pandas
+
+# Optional, used by map overlays and some legacy/urban workflows.
+geopandas
+scipy
+xarray
